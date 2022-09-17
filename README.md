@@ -1,3 +1,3 @@
 # LDP-Course
 
-I'm notyet really sure what this repository is for...
+I'm not yet really sure what I am doing
