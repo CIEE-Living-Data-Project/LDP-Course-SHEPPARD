@@ -1,1 +1,3 @@
 # LDP-Course
+
+I'm notyet really sure what this repository is for...
