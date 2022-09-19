@@ -35,8 +35,4 @@ Reedfrog_fit <- frair_fit(Killed~Initial, data=ReedfrogFuncresp,
 plot(Reedfrog_fit, xlab="Prey Density",pch=21, col="orange", ylab="Prey consumed", ylim=c(0, 35), xlim=c(0,95),xaxs="i",yaxs="i")
 lines(Reedfrog_fit, col = "orange", lty = 1)
 
-save.csv
 
-
-git push -u origin master
-git remote set-url origin https://github.com/CIEE-Living-Data-Project/LDP-Course-SHEPPARD
