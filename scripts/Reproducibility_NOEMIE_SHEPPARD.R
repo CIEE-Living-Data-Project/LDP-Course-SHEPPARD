@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-
-=======
-### Reproducibilty Example ###
+### Reproducibility Example ###
 ###Author: Noemie Sheppard
->>>>>>> 39de5154ba1a5b782cd9ae51271b02a5da7ae330
 
 #Create GitHub Token to link to OSF
 install.packages("usethis")
@@ -39,8 +35,3 @@ Reedfrog_fit <- frair_fit(Killed~Initial, data=ReedfrogFuncresp,
 #Plot fit
 plot(Reedfrog_fit, xlab="Prey Density",pch=21, col="orange", ylab="Prey consumed", ylim=c(0, 35), xlim=c(0,95),xaxs="i",yaxs="i")
 lines(Reedfrog_fit, col = "orange", lty = 1)
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 39de5154ba1a5b782cd9ae51271b02a5da7ae330
