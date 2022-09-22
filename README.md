@@ -2,4 +2,4 @@
 
 Repository for Noemie Sheppard's LDP code and data
 
-This file is being reviewed by Ryan Gill.
+This project is being reviewed by Ryan Gill.
